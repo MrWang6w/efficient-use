@@ -24,8 +24,8 @@ jobs:
       - name: install
         run: npm install
 
-      - name: run to getAbShare
-        run: npm run getAbShare
+      - name: run to getshare
+        run: npm run getshare
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:

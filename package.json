@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "getAbShare":"node ./getabShare.js"
+    "getshare":"node getAbshare.js"
   },
   "keywords": [],
   "author": "",
