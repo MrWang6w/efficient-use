@@ -1,11 +1,11 @@
 name: autoPublishAbShare
 
 on:
-  push:
-    branches: ['master']
+  # push:
+  #   branches: ['master']
 
   schedule:
-    - cron: '* 6 * * *'
+    - cron: '* /6 * * *'
 
 jobs:
   autoPublishAbShare:
