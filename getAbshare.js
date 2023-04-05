@@ -2,9 +2,12 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const { log } = require('./utils');
-async function getAbshare() {
+
+const links = ['https://mksshare.github.io/', 'https://abshare.github.io/'];
+
+async function getAbshare(link) {
   const { data } = await axios({
-    url: 'https://abshare.github.io/',
+    url: link,
     headers: {
       accept:
         'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
@@ -32,9 +35,18 @@ async function getAbshare() {
     .text()
     .split('\n');
   mainContent.splice(1, 4);
-  const content = mainContent.join('\n');
-  fs.writeFileSync('./static/abShare.txt', content, 'utf-8');
-  log('获取abShare节点，保存成功');
+  return mainContent.join('\n');
 }
 
-getAbshare();
+async function tasks() {
+  let content = '';
+  for (let i = 0; i < links.length; i++) {
+    content += await getAbshare(links[i]);
+  }
+  if (!!content.trim()) {
+    fs.writeFileSync('./static/abShare.txt', content, 'utf-8');
+    log('获取abShare节点，保存成功');
+  }
+}
+
+tasks();
