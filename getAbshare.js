@@ -35,16 +35,19 @@ async function getAbshare(link) {
     .text()
     .split('\n');
   mainContent.splice(1, 4);
-  return mainContent.join('\n');
+  return mainContent;
 }
 
 async function tasks() {
-  let content = '';
+  let content = [];
   for (let i = 0; i < links.length; i++) {
-    content += await getAbshare(links[i]);
+    content = [...content, ...(await getAbshare(links[i]))];
   }
-  if (!!content.trim()) {
-    fs.writeFileSync('./static/abShare.txt', content, 'utf-8');
+
+  if (content?.length) {
+    content = content.map((x) => x.trim()).join('\n');
+    const ssr = Buffer.from(content).toString('base64');
+    fs.writeFileSync('./static/abShare.txt', ssr, 'utf-8');
     log('获取abShare节点，保存成功');
   }
 }
