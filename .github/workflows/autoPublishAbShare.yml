@@ -1,0 +1,35 @@
+name: autoPublishAbShare
+
+on:
+  push:
+    branches: ['master']
+
+  schedule:
+    - cron: '* 6 * * *'
+
+jobs:
+  autoPublishAbShare:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          token: ${{ secrets.ACCESS_TOKEN }}
+
+      - name: Set up nodejs
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14
+      - name: install
+        run: npm install
+
+      - name: run to getAbShare
+        run: npm run getAbShare
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: Auto update
+          add: '*'
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
