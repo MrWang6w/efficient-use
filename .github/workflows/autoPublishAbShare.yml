@@ -6,6 +6,9 @@ on:
 
   schedule:
     - cron: '*/6 * * * *'
+    
+env:
+  TZ: UTC # 设置默认时区
 
 jobs:
   autoPublishAbShare:
