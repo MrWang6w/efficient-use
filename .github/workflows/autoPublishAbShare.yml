@@ -5,7 +5,8 @@ on:
   #   branches: ['master']
 
   schedule:
-    - cron: '*/6 * * * *'
+    - cron: '20,40,0 * * * *'  # 每20/40/60分执行
+#     - cron: '*/6 * * * *'    # 每六分钟执行
     
 env:
   TZ: UTC # 设置默认时区
