@@ -19,8 +19,7 @@ function log(logText) {
   };
   const datetimeString = new Date().toLocaleString('zh-CN', options);
   const currentLog = `${datetimeString}: ${logText}\n`;
-  console.log(currentLog);
-  oldLog += currentLog;
+  oldLog = currentLog + oldLog;
 
   try {
     fs.writeFileSync(logPath, oldLog, 'utf-8');
