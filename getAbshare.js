@@ -64,11 +64,6 @@ async function getAbshare({link,format}) {
     },
   });
 
-  // const $ = cheerio.load(data);
-  // const mainContent = $('.highlighter-rouge .highlight code')
-  //   .text()
-  //   .split('\n');
-  // mainContent.splice(1, 4);
   return format(data);
 }
 
@@ -77,7 +72,7 @@ async function tasks() {
   for (let i = 0; i < linksConf.length; i++) {
     content = [...content, ...(await getAbshare(linksConf[i]))];
   }
-  content = content.map((x) => x.trim()).filter(Boolean);
+  content = [...new Set(content.map((x) => x.trim()).filter(Boolean))];
   if (content?.length) {
     content = content.join('\n');
     const ssr = Buffer.from(content).toString('base64');
