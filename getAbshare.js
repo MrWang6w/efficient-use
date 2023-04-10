@@ -2,11 +2,44 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
 const { log } = require('./utils');
-const links = ['https://mksshare.github.io/', 'https://abshare.github.io/'];
 
+const defaultFormat = (data) => {
+  const $ = cheerio.load(data);
+  const mainContent = $('.highlighter-rouge .highlight code')
+    .text()
+    .split('\n');
+  mainContent.splice(1, 4);
+  return mainContent;
+};
 
+const originSiteFormat = (data) => {
+  const $ = cheerio.load(data);
+  const mainContent = $('.snippet-clipboard-content > .notranslate code')
+    .text()
+    .split('\n');
+  return mainContent;
+}
 
-async function getAbshare(link) {
+const linksConf = [
+  {
+    link: 'https://github.com/Pawdroid/Free-servers/blob/main/README.md',
+    format: originSiteFormat,
+  },
+  {
+    link: 'https://github.com/githubvpn007/v2rayNvpn/blob/main/README.md',
+    format: originSiteFormat,
+  },
+  {
+    link: 'https://mksshare.github.io/',
+    format: defaultFormat,
+  },
+  {
+    link: 'https://abshare.github.io/',
+    format: defaultFormat,
+  },
+];
+
+async function getAbshare({link,format}) {
   const { data } = await axios({
     url: link,
     headers: {
@@ -31,18 +64,18 @@ async function getAbshare(link) {
     },
   });
 
-  const $ = cheerio.load(data);
-  const mainContent = $('.highlighter-rouge .highlight code')
-    .text()
-    .split('\n');
-  mainContent.splice(1, 4);
-  return mainContent;
+  // const $ = cheerio.load(data);
+  // const mainContent = $('.highlighter-rouge .highlight code')
+  //   .text()
+  //   .split('\n');
+  // mainContent.splice(1, 4);
+  return format(data);
 }
 
 async function tasks() {
   let content = [];
-  for (let i = 0; i < links.length; i++) {
-    content = [...content, ...(await getAbshare(links[i]))];
+  for (let i = 0; i < linksConf.length; i++) {
+    content = [...content, ...(await getAbshare(linksConf[i]))];
   }
   content = content.map((x) => x.trim()).filter(Boolean);
   if (content?.length) {
