@@ -22,5 +22,5 @@ vmess://eyJhZGQiOiAiMTcyLjY3LjIyMS4xOSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZk
 trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@twnode11.oportal.cc:443?sni=twnode11.oportal.cc#%E5%8F%B0%E6%B9%BE%E7%9C%81+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://3690911436885991424@91.199.84.246:443?sni=giving-marmoset.opossum872.cfd#%E8%8D%B7%E5%85%B0+V2CROSS.COM
 vmess://eyJhZGQiOiAibWFsYXlzaWEuY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA5NSwgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDIuNjAxNjcyNS54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
-https://sPsGl7.mcsslk.xyz/0461ebfb78578e1b819135ab1d8c4edc
-https:/U7nX1F.absslk.xyz/804e6a305bc64c205c362afa7bd82e64
+https://gup6xj.mcsslk.xyz/5a560b6dc63139645a362ada4dab5ac6
+https:/rK2gUT.absslk.xyz/3ab28e467ef6b4b0035eae09ea8b1e72
