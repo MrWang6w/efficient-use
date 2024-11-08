@@ -80,5 +80,5 @@ trojan://auto@103.170.72.120:27061?security=tls&sni=trojanfree-76s.pages.dev&typ
 vmess://eyJhZGQiOiAiMTA0LjE5LjIxLjcxIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4MiwgImlkIjogIjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDMuNjkyOTE5OC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
 vmess://eyJhZGQiOiAiZC5tYXNqaWRlLm9yZyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJkLm1hc2ppZGUub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
 trojan://telegram-id-privatevpns@34.243.140.245:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-https://0rpQf0.mcsslk.xyz/44f6d5cd9daee1dc12e8f9d9e3a71f1d
+https://8t6nks.mcsslk.xyz/9d209587a5a0f8320bdcd1169fed85be
 https:/Kc81aP.absslk.xyz/fa65b4acc18af114f501b2d0bf5aad3a
