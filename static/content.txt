@@ -17,5 +17,5 @@ vmess://eyJhZGQiOiAiMTA0LjE4LjYyLjIwNCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZk
 trojan://UipJV58NIw@104.26.9.227:443?security=tls&sni=t2.rtx.al&type=ws&host=t2.rtx.al&path=/cfiiib&fp=360#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vmess://eyJhZGQiOiAiMTA0LjE2LjY4LjM4IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4MiwgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzbm93eS1yaXZlci1mNDk3LnR1cmtleXMtcmFkZm9yZC53b3JrZXJzLmRldiIsICJwYXRoIjogIi9nbHdlaWRmLnNicy9saW5rd3MiLCAidGxzIjogIiJ9
 ss://YWVzLTI1Ni1nY206T0lHR1lHUjAwMlNSR0czMw==@156.231.104.13:18003#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-https://6dUrES.mcsslk.xyz/9aa28ee720a1644ead7e0d1678ace95b
+https://QovZQO.mcsslk.xyz/143864dd64af27b4a0ce7111f0d5c839
 https:/coO95n.absslk.xyz/08fd30df88dd515288ee546a9da9a1d4
