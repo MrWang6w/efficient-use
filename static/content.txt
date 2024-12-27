@@ -30,4 +30,4 @@ trojan://telegram-id-directvpn@51.24.40.78:22222?security=tls&sni=trojan.burgeri
 trojan://lidnBTGb@223.113.54.149:2524?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%BE%90%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://telegram-id-privatevpns@13.48.36.27:22222?security=tls&sni=trojan.burgerip.co.uk#%E7%91%9E%E5%85%B8+%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 https://lxaH1r.mcsslk.xyz/f4b5475fbec5a6c48b6c4a9af26e4fe5
-https://HuoH6m.absslk.xyz/107694a1e4275063b2762d11a176c4e7
+https://SAjxJU.absslk.xyz/0475544f623ebdc8dc677434da7f7d0d
