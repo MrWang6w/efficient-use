@@ -38,5 +38,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFx1NGZjNFx1NTJkMlx1NTE4OFx1NWRk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.185.57.121:443#%E5%B7%B4%E6%9E%97+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://telegram-id-privatevpns@18.157.156.32:22222?security=tls&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://vzhXXZVw@36.150.215.196:18681?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-https://gX2b4C.mcsslk.xyz/905cf5851f330dcaa38d3c5c9ca4f19b
+https://IEv5ej.mcsslk.xyz/8f391437d8694d872f3dcb6eab3bc8ce
 https://HiTyTk.absslk.xyz/e5db4134532487ef569e6a8ed61ea07a
