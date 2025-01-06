@@ -22,4 +22,4 @@ trojan://telegram-id-privatevpns@52.58.149.106:22222?sni=trojan.burgerip.co.uk#%
 trojan://3723507166611775488@fitting-ox.boa152.lol:443?sni=fitting-ox.boa152.lol#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgVjJDUk9TUy5DT00iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 https://c6ISTG.mcsslk.xyz/159b3867941082fd43374b8ab3c81e61
-https://WJBEaJ.absslk.xyz/6c82c2372299220dee5dca932a9affd8
+https://bsCH9Q.absslk.xyz/93c15cc9430b81395ca42e40b7d0a0be
