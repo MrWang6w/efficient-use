@@ -18,8 +18,5 @@ trojan://telegram-id-privatevpns@13.37.123.220:22222?security=tls&sni=trojan.bur
 trojan://telegram-id-privatevpns@16.171.89.89:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.43.99.113:443#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://e8105dfd24414268b6c7652c63731097@132.145.94.80:443?security=tls&sni=yournextcareerstep.online&type=tcp#%E9%9F%A9%E5%9B%BD+%E9%A6%96%E5%B0%94Oracle%E4%BA%91%E8%AE%A1%E7%AE%97%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE0MS4xMDEuMTE1LjY1IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNWY3NTFjNmUtNTBiMS00Nzk3LWJhOGUtNmZmZTMyNGEwYmNlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJkcDMuc2Nwcm94eS50b3AiLCAicGF0aCI6ICIvc2hpcmtlciIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImZkLnNoYWJpamljaGFuZy5jb20iLCAicG9ydCI6ICI4MCIsICJpZCI6ICIwZjg5MjFlYy1mNjkxLTRlMDUtYWFhMi01ZDA5NjEzM2I2MDYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInpqZy5zaGFiaWppY2hhbmcuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImJsdWVob3N0LmNvbSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMTJlZWQ1MDctOWE1OC00Y2E1LWY3YWYtMjg3MWU5YWFlNjg0IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJjZG50cjIuZGlnaXNwb3J0LnNob3AiLCAicGF0aCI6ICIvMTk1NDQiLCAidGxzIjogInRscyJ9
 https://MXqH8L.mcsslk.xyz/ba1af740372c5183dba3ac3765d51fb7
-https://7TBdSv.absslk.xyz/ea1dff13ebeb7553ee0736afb80b7dcc
+https://0d1TSp.absslk.xyz/e85e9d52f107567270105e8a7c0a2de0
