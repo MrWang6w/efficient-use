@@ -36,5 +36,5 @@ trojan://telegram-id-privatevpns@3.76.183.179:22222?security=tls&sni=trojan.burg
 vmess://eyJhZGQiOiAiMTA0LjIxLjgwLjEiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiODljMzQ0ZjItMDk2Yy00NDVjLWI2MjktOWIxNTE1MmYzOGU3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZmLmtuY2MyLnRvcCIsICJwYXRoIjogIi84OWMzNDRmMiIsICJ0bHMiOiAidGxzIn0=
 trojan://telegram-id-privatevpns@54.73.96.17:22222?sni=trojan.burgerip.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 vmess://eyJhZGQiOiAiMTQ5LjcuMTYuMTk0IiwgInYiOiAiMiIsICJwcyI6ICJcdTg5N2ZcdTczZWRcdTcyNTkgVjJDUk9TUy5DT00iLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-https://wwqgsh.mcsslk.xyz/9471cca6d703c75455ade83ec8bd7c01
-https://oby3qJ.absslk.xyz/2f6fe638f7ba85ddc22f253492a6014a
+https://84ywKN.mcsslk.xyz/85a335fd5f831e7d6965c39a4c56e3c8
+https://6MIMgN.absslk.xyz/d93e7f695517b320fe272c796cb4ecd4
